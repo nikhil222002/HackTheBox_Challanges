@@ -1,4 +1,4 @@
-# HackTheBox_Challanges
+# CSCE 5552 Group-6 HackTheBox_Challanges
 # Secure Signing and Rhome
 1. The server code and the solution code are in the same python file.
 2. We have commented out the server program in the Flag extraction program itself.
